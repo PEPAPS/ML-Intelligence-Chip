@@ -1,0 +1,132 @@
+set IC version: IC_06.18.250 (default)
+set LIBERATE version: LIBREATE_21.72.187 (default)
+set hspice version: 2020.03-sp2-2/ (default)
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/20454/gvfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/19861/gvfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/20371/gvfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.xrdp-chansrv file system /RAID2/COURSE/2026_Spring/es26mcs/es26mcs054/thinclient_drives
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.xrdp-chansrv file system /RAID2/COURSE/2026_Spring/es26aiclab/es26aiclab007/thinclient_drives
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/19820/gvfs
+      Output information may be incomplete.
+set finesim version: 2022.06/ (default)
+set xa version: 2022.06/ (default)
+set siliconsmart version: 2022.12 (default)
+set customcompiler version: 2020.12-sp1-2/ (default)
+set customexplorer version: 2022.06/ (default)
+set laker_oa version: 2021.06/ (default)
+set calibre version : aoi_cal_2019.2_26.18/
+./run cat.txt
+
+        SystemC 2.3.3-Accellera --- Mar  3 2026 15:59:48
+        Copyright (c) 1996-2018 by all Contributors,
+        ALL RIGHTS RESERVED
+Top 100 classes:
+=================================================
+  idx |      val | possibility | class name
+-------------------------------------------------
+  285 |    20.21 |       96.38 | Egyptian cat
+  281 |    16.14 |        1.65 | tabby
+  282 |    15.73 |        1.10 | tiger cat
+  287 |    14.79 |        0.43 | lynx
+  728 |    14.41 |        0.29 | plastic bag
+  330 |    12.73 |        0.05 | wood rabbit
+  331 |    12.19 |        0.03 | hare
+  457 |    10.94 |        0.01 | bow tie
+  335 |    10.67 |        0.01 | fox squirrel
+  463 |    10.57 |        0.01 | bucket
+  478 |    10.32 |        0.00 | carton
+  876 |    10.29 |        0.00 | tub
+  622 |    10.18 |        0.00 | lens cap
+  904 |    10.01 |        0.00 | window screen
+  700 |     9.56 |        0.00 | paper towel
+  278 |     9.39 |        0.00 | kit fox
+    8 |     9.29 |        0.00 | hen
+  284 |     9.21 |        0.00 | Siamese cat
+  722 |     8.80 |        0.00 | ping-pong ball
+  434 |     8.77 |        0.00 | bath towel
+  452 |     8.71 |        0.00 | bonnet
+  289 |     8.31 |        0.00 | snow leopard
+  753 |     8.30 |        0.00 | radiator
+  681 |     8.11 |        0.00 | notebook
+  673 |     8.04 |        0.00 | mouse
+  840 |     8.03 |        0.00 | swab
+  773 |     7.94 |        0.00 | saltshaker
+  782 |     7.90 |        0.00 | screen
+  896 |     7.71 |        0.00 | washbasin
+   44 |     7.70 |        0.00 | alligator lizard
+  719 |     7.69 |        0.00 | piggy bank
+  138 |     7.68 |        0.00 | bustard
+  998 |     7.57 |        0.00 | ear
+  543 |     7.52 |        0.00 | dumbbell
+  451 |     7.49 |        0.00 | bolo tie
+  283 |     7.40 |        0.00 | Persian cat
+  272 |     7.32 |        0.00 | coyote
+  999 |     7.27 |        0.00 | toilet tissue
+  769 |     7.23 |        0.00 | rule
+  713 |     7.14 |        0.00 | photocopier
+  760 |     7.12 |        0.00 | refrigerator
+  474 |     7.08 |        0.00 | cardigan
+  534 |     6.99 |        0.00 | dishwasher
+  797 |     6.94 |        0.00 | sleeping bag
+  552 |     6.93 |        0.00 | feather boa
+  793 |     6.93 |        0.00 | shower cap
+  322 |     6.92 |        0.00 | ringlet
+  288 |     6.91 |        0.00 | leopard
+  750 |     6.91 |        0.00 | quilt
+  897 |     6.84 |        0.00 | washer
+   36 |     6.83 |        0.00 | terrapin
+  326 |     6.76 |        0.00 | lycaenid
+  723 |     6.75 |        0.00 | pinwheel
+    7 |     6.72 |        0.00 | cock
+  333 |     6.66 |        0.00 | hamster
+  519 |     6.65 |        0.00 | crate
+  588 |     6.65 |        0.00 | hamper
+  883 |     6.54 |        0.00 | vase
+  725 |     6.50 |        0.00 | pitcher
+  438 |     6.46 |        0.00 | beaker
+  469 |     6.37 |        0.00 | caldron
+  350 |     6.36 |        0.00 | ibex
+  968 |     6.28 |        0.00 | cup
+  280 |     6.25 |        0.00 | grey fox
+  290 |     6.22 |        0.00 | jaguar
+   83 |     6.18 |        0.00 | prairie chicken
+  680 |     6.15 |        0.00 | nipple
+   41 |     6.13 |        0.00 | whiptail
+  572 |     6.13 |        0.00 | goblet
+  742 |     6.07 |        0.00 | printer
+  359 |     6.03 |        0.00 | black-footed ferret
+  353 |     6.01 |        0.00 | gazelle
+  937 |     5.96 |        0.00 | broccoli
+  862 |     5.94 |        0.00 | torch
+  286 |     5.91 |        0.00 | cougar
+  504 |     5.86 |        0.00 | coffee mug
+  855 |     5.81 |        0.00 | thimble
+  332 |     5.74 |        0.00 | Angora
+  400 |     5.73 |        0.00 | academic gown
+  845 |     5.69 |        0.00 | syringe
+   38 |     5.68 |        0.00 | banded gecko
+  271 |     5.63 |        0.00 | red wolf
+  357 |     5.61 |        0.00 | mink
+   47 |     5.60 |        0.00 | African chameleon
+  869 |     5.58 |        0.00 | trench coat
+  584 |     5.57 |        0.00 | hair slide
+  298 |     5.45 |        0.00 | mongoose
+  761 |     5.39 |        0.00 | remote control
+  470 |     5.38 |        0.00 | candle
+  636 |     5.36 |        0.00 | mailbag
+  620 |     5.35 |        0.00 | laptop
+  268 |     5.31 |        0.00 | Mexican hairless
+  273 |     5.31 |        0.00 | dingo
+  514 |     5.28 |        0.00 | cowboy boot
+  596 |     5.25 |        0.00 | hatchet
+  885 |     5.24 |        0.00 | velvet
+  929 |     5.23 |        0.00 | ice lolly
+  899 |     5.22 |        0.00 | water jug
+  473 |     5.20 |        0.00 | can opener
+  377 |     5.15 |        0.00 | marmoset
+=================================================

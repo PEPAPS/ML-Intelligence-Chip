@@ -1,0 +1,132 @@
+set IC version: IC_06.18.250 (default)
+set LIBERATE version: LIBREATE_21.72.187 (default)
+set hspice version: 2020.03-sp2-2/ (default)
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/20454/gvfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/19861/gvfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/20371/gvfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.xrdp-chansrv file system /RAID2/COURSE/2026_Spring/es26mcs/es26mcs054/thinclient_drives
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.xrdp-chansrv file system /RAID2/COURSE/2026_Spring/es26aiclab/es26aiclab007/thinclient_drives
+      Output information may be incomplete.
+lsof: WARNING: can't stat() fuse.gvfsd-fuse file system /run/user/19820/gvfs
+      Output information may be incomplete.
+set finesim version: 2022.06/ (default)
+set xa version: 2022.06/ (default)
+set siliconsmart version: 2022.12 (default)
+set customcompiler version: 2020.12-sp1-2/ (default)
+set customexplorer version: 2022.06/ (default)
+set laker_oa version: 2021.06/ (default)
+set calibre version : aoi_cal_2019.2_26.18/
+./run dog.txt
+
+        SystemC 2.3.3-Accellera --- Mar  3 2026 15:59:48
+        Copyright (c) 1996-2018 by all Contributors,
+        ALL RIGHTS RESERVED
+Top 100 classes:
+=================================================
+  idx |      val | possibility | class name
+-------------------------------------------------
+  207 |    16.59 |       38.63 | golden retriever
+  175 |    15.57 |       13.86 | otterhound
+  220 |    15.36 |       11.26 | Sussex spaniel
+  163 |    15.00 |        7.86 | bloodhound
+  219 |    14.59 |        5.22 | cocker spaniel
+  168 |    14.39 |        4.28 | redbone
+  160 |    14.35 |        4.07 | Afghan hound
+  213 |    14.18 |        3.46 | Irish setter
+  291 |    14.10 |        3.19 | lion
+  211 |    13.01 |        1.07 | vizsla
+  244 |    12.81 |        0.88 | Tibetan mastiff
+  216 |    12.69 |        0.78 | clumber
+  200 |    12.46 |        0.62 | Tibetan terrier
+  159 |    12.42 |        0.59 | Rhodesian ridgeback
+  152 |    12.38 |        0.57 | Japanese spaniel
+  167 |    12.01 |        0.39 | English foxhound
+  208 |    11.65 |        0.28 | Labrador retriever
+  294 |    11.63 |        0.27 | brown bear
+  165 |    11.51 |        0.24 | black-and-tan coonhound
+  262 |    11.46 |        0.23 | Brabancon griffon
+  156 |    11.40 |        0.21 | Blenheim spaniel
+  185 |    11.29 |        0.19 | Norfolk terrier
+  260 |    11.11 |        0.16 | chow
+  267 |    11.08 |        0.16 | standard poodle
+  365 |    10.87 |        0.13 | orangutan
+  154 |    10.74 |        0.11 | Pekinese
+  368 |    10.70 |        0.11 | gibbon
+  215 |    10.66 |        0.10 | Brittany spaniel
+  161 |    10.59 |        0.10 | basset
+  214 |    10.47 |        0.08 | Gordon setter
+  176 |    10.39 |        0.08 | Saluki
+  212 |    10.31 |        0.07 | English setter
+  852 |     9.88 |        0.05 | tennis ball
+  255 |     9.87 |        0.05 | Leonberg
+  194 |     9.77 |        0.04 | Dandie Dinmont
+  672 |     9.59 |        0.04 | mountain tent
+  274 |     9.44 |        0.03 | dhole
+  335 |     9.44 |        0.03 | fox squirrel
+  371 |     9.40 |        0.03 | patas
+  190 |     9.31 |        0.03 | Sealyham terrier
+  384 |     9.29 |        0.03 | indri
+  193 |     9.15 |        0.02 | Australian terrier
+  166 |     9.00 |        0.02 | Walker hound
+  206 |     8.92 |        0.02 | curly-coated retriever
+  380 |     8.90 |        0.02 | titi
+  170 |     8.86 |        0.02 | Irish wolfhound
+  191 |     8.85 |        0.02 | Airedale
+  379 |     8.84 |        0.02 | howler monkey
+  243 |     8.77 |        0.02 | bull mastiff
+  189 |     8.59 |        0.01 | Lakeland terrier
+  218 |     8.57 |        0.01 | Welsh springer spaniel
+  182 |     8.53 |        0.01 | Border terrier
+  187 |     8.53 |        0.01 | Yorkshire terrier
+  209 |     8.51 |        0.01 | Chesapeake Bay retriever
+  273 |     8.37 |        0.01 | dingo
+  222 |     8.32 |        0.01 | kuvasz
+  226 |     8.29 |        0.01 | briard
+  382 |     8.23 |        0.01 | squirrel monkey
+  169 |     8.18 |        0.01 | borzoi
+  373 |     8.17 |        0.01 | macaque
+  256 |     8.12 |        0.01 | Newfoundland
+  155 |     8.09 |        0.01 | Shih-Tzu
+  186 |     8.04 |        0.01 | Norwich terrier
+  299 |     7.83 |        0.01 | meerkat
+  184 |     7.82 |        0.01 | Irish terrier
+  164 |     7.74 |        0.01 | bluetick
+  162 |     7.70 |        0.01 | beagle
+  292 |     7.63 |        0.00 | tiger
+  266 |     7.62 |        0.00 | miniature poodle
+  298 |     7.44 |        0.00 | mongoose
+  231 |     7.40 |        0.00 | collie
+  257 |     7.33 |        0.00 | Great Pyrenees
+  158 |     7.33 |        0.00 | toy terrier
+  181 |     7.31 |        0.00 | Bedlington terrier
+  188 |     7.28 |        0.00 | wire-haired fox terrier
+  265 |     7.28 |        0.00 | toy poodle
+  247 |     7.25 |        0.00 | Saint Bernard
+  264 |     7.23 |        0.00 | Cardigan
+  221 |     7.23 |        0.00 | Irish water spaniel
+  463 |     7.17 |        0.00 | bucket
+  101 |     7.14 |        0.00 | tusker
+  180 |     7.08 |        0.00 | American Staffordshire terrier
+  238 |     7.07 |        0.00 | Greater Swiss Mountain dog
+  201 |     7.03 |        0.00 | silky terrier
+  354 |     7.03 |        0.00 | Arabian camel
+  339 |     6.99 |        0.00 | sorrel
+  204 |     6.89 |        0.00 | Lhasa
+  235 |     6.88 |        0.00 | German shepherd
+  183 |     6.79 |        0.00 | Kerry blue terrier
+  271 |     6.77 |        0.00 | red wolf
+  286 |     6.66 |        0.00 | cougar
+  227 |     6.66 |        0.00 | kelpie
+  370 |     6.62 |        0.00 | guenon
+  252 |     6.60 |        0.00 | affenpinscher
+  372 |     6.52 |        0.00 | baboon
+  377 |     6.51 |        0.00 | marmoset
+  240 |     6.49 |        0.00 | Appenzeller
+  202 |     6.48 |        0.00 | soft-coated wheaten terrier
+  151 |     6.48 |        0.00 | Chihuahua
+  369 |     6.43 |        0.00 | siamang
+=================================================
