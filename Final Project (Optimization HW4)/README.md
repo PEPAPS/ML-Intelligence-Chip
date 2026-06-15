@@ -1,0 +1,1 @@
+This Project is the Optimization of the HW 4, which I replace the ROM model data storing to DRAM based storing and AXI4bus structure for DRAM and DMA communication. Also as for the NoC strcture I optimize some design so that the accelerator model is more Hardware reliable and the implementation is for possible. 
